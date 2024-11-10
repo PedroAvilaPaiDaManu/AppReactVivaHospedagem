@@ -38,29 +38,29 @@ Inicie o aplicativo:
 4. Inicie o aplicativo
 npx expo start
 # Estrutura de Arquivo
-## Index.tsx: Arquivo principal que contém a lógica e interface do cadastro e listagem de clientes.
-## components/Input.tsx: Componente para entrada de dados no aplicativo.
-## components/Product.tsx: Componente para exibição de informações e operações (detalhes, excluir) sobre os clientes.
-## database/useProductDatabase.ts: Implementação da interface com o banco de dados SQLite para operações CRUD.
+- ** Index.tsx: Arquivo principal que contém a lógica e interface do cadastro e listagem de clientes.
+- ** components/Input.tsx: Componente para entrada de dados no aplicativo.
+- ** components/Product.tsx: Componente para exibição de informações e operações (detalhes, excluir) sobre os clientes.
+- ** database/useProductDatabase.ts: Implementação da interface com o banco de dados SQLite para operações CRUD.
 # Uso
 Cadastro de Clientes:
 
-## Insira o nome e o telefone do cliente e pressione Salvar.
+- ** Insira o nome e o telefone do cliente e pressione Salvar.
 #Atualização de Dados:
 
-## Clique em um cliente existente para carregar os dados, faça as modificações e pressione Salvar.
+- ** Clique em um cliente existente para carregar os dados, faça as modificações e pressione Salvar.
 #Pesquisa:
 
-## Digite um nome no campo de pesquisa para filtrar a lista de clientes.
+- ** Digite um nome no campo de pesquisa para filtrar a lista de clientes.
 #Exclusão de Clientes:
 
-## Pressione o botão de exclusão em um cliente para removê-lo.
+- ** Pressione o botão de exclusão em um cliente para removê-lo.
 #Contribuição
-## Faça um fork do projeto.
-## Crie uma branch para sua feature (git checkout -b feature/NovaFuncionalidade).
-## Commit as mudanças (git commit -m 'Adiciona nova funcionalidade').
-## Dê push na branch (git push origin feature/NovaFuncionalidade).
-## Abra um Pull Request.
+- ** Faça um fork do projeto.
+- ** Crie uma branch para sua feature (git checkout -b feature/NovaFuncionalidade).
+- ** Commit as mudanças (git commit -m 'Adiciona nova funcionalidade').
+- ** Dê push na branch (git push origin feature/NovaFuncionalidade).
+- ** Abra um Pull Request.
 
 
 
